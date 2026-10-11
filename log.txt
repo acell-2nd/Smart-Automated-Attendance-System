@@ -1,0 +1,27 @@
+ [RFID] UID terbaca: 01 02 03 04
+[KAMERA] Foto diambil: IMG_002.jpg
+                                  [DB] Absen tercatat: Siti Aminah | UID 01 02 03 04 | 07:19:00
+                                                                                               [WA] Ke 0812-0000-0002: Halo Siti Aminah, absen masuk berhasil pukul 07:19:00. Foto terlampir: IMG_002.jpg
+                                                                                                CSV,01 02 03 04,Siti Aminah,2026-10-12,07:19:00
+                                      [STATE] Selesai transaksi -> POSITIONING
+[STATE] LOCKED pada jarak 34.2 cm
+                                 [RFID] UID terbaca: 11 22 33 44
+[KAMERA] Foto diambil: IMG_003.jpg
+                                  [DB] Absen tercatat: Dewi Lestari | UID 11 22 33 44 | 07:23:00
+                                                                                                [WA] Ke 0812-0000-0004: Halo Dewi Lestari, absen masuk berhasil pukul 07:23:00. Foto terlampir: IMG_003.jpg
+                                                                                                  CSV,11 22 33 44,Dewi Lestari,2026-10-12,07:23:00
+                                         [STATE] Selesai transaksi -> POSITIONING
+[STATE] LOCKED pada jarak 34.3 cm
+                                 [RFID] UID terbaca: 55 66 77 88
+[KAMERA] Foto diambil: IMG_004.jpg
+                                  [DB] Absen tercatat: Rudi Hartono | UID 55 66 77 88 | 07:27:00
+                                                                                                [WA] Ke 0812-0000-0005: Halo Rudi Hartono, absen masuk berhasil pukul 07:27:00. Foto terlampir: IMG_004.jpg
+                                                                                                  CSV,55 66 77 88,Rudi Hartono,2026-10-12,07:27:00
+                                         [STATE] Selesai transaksi -> POSITIONING
+[STATE] LOCKED pada jarak 34.3 cm
+                                 [RFID] UID terbaca: AA BB CC DD
+[KAMERA] Foto diambil: IMG_005.jpg
+                                  [DB] Absen tercatat: Andi Pratama | UID AA BB CC DD | 07:34:00
+                                                                                                [WA] Ke 0812-0000-0003: Halo Andi Pratama, absen masuk berhasil pukul 07:34:00. Foto terlampir: IMG_005.jpg
+                                                                                                  CSV,AA BB CC DD,Andi Pratama,2026-10-12,07:34:00
+                                         [STATE] Selesai transaksi -> POSITIONING
